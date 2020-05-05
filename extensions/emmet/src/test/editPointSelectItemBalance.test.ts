@@ -37,7 +37,7 @@ suite('Tests for Next/Previous Select/Edit point and Balance actions', () => {
 `;
 
 	const htmlContents = `
-<!DOCTYPE html>
+<! html>
 <html lang="en">
 <head>
 	<meta charset="">
